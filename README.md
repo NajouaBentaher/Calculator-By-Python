@@ -1,9 +1,5 @@
-Calculator With Python
+# Calculator By Python
+Simple Calculator by Python
 
-Simple Calculator by python
-
-Built in
-
-Python 3.x
-
-Tkinter python
+# Built in
+<ul> <li> Python 3.x  <br/></li> <li> Tkinter python <br/> </li> </ul>
